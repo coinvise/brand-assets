@@ -1,0 +1,105 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4110037, 2021-06-26T09:37:02-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Freigeist-Thin by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/freigeist/thin/
+ * 
+ * Webfont: Freigeist-ThinItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/freigeist/thin-italic/
+ * 
+ * Webfont: Freigeist-Light by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/freigeist/light/
+ * 
+ * Webfont: Freigeist-LightItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/freigeist/light-italic/
+ * 
+ * Webfont: Freigeist-Regular by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/freigeist/regular/
+ * 
+ * Webfont: Freigeist-RegularItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/freigeist/regular-italic/
+ * 
+ * Webfont: Freigeist-Medium by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/freigeist/medium/
+ * 
+ * Webfont: Freigeist-MediumItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/freigeist/medium-italic/
+ * 
+ * Webfont: Freigeist-Bold by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/freigeist/bold/
+ * 
+ * Webfont: Freigeist-BoldItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/freigeist/bold-italic/
+ * 
+ * Webfont: Freigeist-Black by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/freigeist/black/
+ * 
+ * Webfont: Freigeist-BlackItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/freigeist/black-italic/
+ * 
+ * 
+ * Webfonts copyright: Copyright © 2020 by Rene Bieder. All rights reserved.
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3eb6d5");
+  
+@font-face {
+  font-family: "Freigeist-Regular";
+  src: url('webFonts/FreigeistRegular/font.woff2') format('woff2'), url('webFonts/FreigeistRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Freigeist-ThinItalic";
+  src: url('webFonts/FreigeistThinItalic/font.woff2') format('woff2'), url('webFonts/FreigeistThinItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Freigeist-Thin";
+  src: url('webFonts/FreigeistThin/font.woff2') format('woff2'), url('webFonts/FreigeistThin/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Freigeist-Light";
+  src: url('webFonts/FreigeistLight/font.woff2') format('woff2'), url('webFonts/FreigeistLight/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Freigeist-Black";
+  src: url('webFonts/FreigeistBlack/font.woff2') format('woff2'), url('webFonts/FreigeistBlack/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Freigeist-BlackItalic";
+  src: url('webFonts/FreigeistBlackItalic/font.woff2') format('woff2'), url('webFonts/FreigeistBlackItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Freigeist-BoldItalic";
+  src: url('webFonts/FreigeistBoldItalic/font.woff2') format('woff2'), url('webFonts/FreigeistBoldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Freigeist-LightItalic";
+  src: url('webFonts/FreigeistLightItalic/font.woff2') format('woff2'), url('webFonts/FreigeistLightItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Freigeist-Medium";
+  src: url('webFonts/FreigeistMedium/font.woff2') format('woff2'), url('webFonts/FreigeistMedium/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Freigeist-Bold";
+  src: url('webFonts/FreigeistBold/font.woff2') format('woff2'), url('webFonts/FreigeistBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Freigeist-RegularItalic";
+  src: url('webFonts/FreigeistRegularItalic/font.woff2') format('woff2'), url('webFonts/FreigeistRegularItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Freigeist-MediumItalic";
+  src: url('webFonts/FreigeistMediumItalic/font.woff2') format('woff2'), url('webFonts/FreigeistMediumItalic/font.woff') format('woff');
+}
+
